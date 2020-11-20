@@ -1,0 +1,16 @@
+* {
+	text-align: center;
+	margin: 0 0 0 0;
+}
+
+canvas {
+	border: solid 1px gray;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	image-rendering: -mor-crisp-edges;
+	margin-top: 10px;
+}
+
+button {
+	margin-top: 10px;
+}
